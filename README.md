@@ -43,7 +43,7 @@ que estão criados no meu workspace para o staging area
 
 - git push -u origin
 
-- git remote add origin https://github.com/mhnakashima/dio-takeblip-aplicando-conceitos-git-pratica.git
+- git remote add origin https://github.com/......
 
 - git branch -M main
 Isso significa que, ao executar o comando, a branch atual será renomeada para main, mesmo que essa branch já exista (efeito causado pelo --force).
